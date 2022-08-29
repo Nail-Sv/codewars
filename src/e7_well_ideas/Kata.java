@@ -1,8 +1,5 @@
 package e7_well_ideas;
 
-import org.testng.annotations.Test;
-
-import static org.testng.Assert.assertEquals;
 
 public class Kata {
     public static void main(String[] args) {
